@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.doda{
+    padding: 85px 180px;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.ota1{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+}
+.bola{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background: #f7941f;
+    border: 2px solid black;
+
+}
+.ota2{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+flex-direction: column;
+}
+.ota4{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+justify-content: space-between;
+
+}
+.ota5{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+}
+.ota6{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+justify-content: end;
+}
+.ota7{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+justify-content: center;
+}
+.ota8{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+justify-content: space-evenly;
+}
+.ota9{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+}
+.ota10{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+align-items: end;
+}
+.ota11{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+align-items: end;
+}
+.ota12{
+    width: 240px;
+    height: 240px;
+    background: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+gap: 8px;
+display: flex;
+justify-content: space-around;
+}
+*{
+    margin: 0;
+     padding: 0; 
+      box-sizing: border-box;
+}
+.Doda{
+    padding: 85px  180px;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+   
+}
+.ota1{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+}
+.bola{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #F7941F;
+    border: 1px solid black;
+  
+}
+.ota2{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+}
+.ota3{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+   flex-wrap: wrap;
+}
+.ota4{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+   justify-content: space-between;
+}
+.ota5{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+}
+.ota6{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+    justify-content: end;
+}
+.ota7{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+    justify-content: center;  
+}
+.ota8{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+    justify-content: space-evenly;
+}
+.ota9{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+}
+.ota10{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px; 
+    align-items: end; 
+}
+.ota11{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;  
+align-items: center;
+}
+.ota12{
+    width: 240px;
+    height: 240px;
+    background-color: #995db5;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    gap: 8px;
+    justify-content: space-around;   
+}
+.paqir{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #F7941F;
+    border: 1px solid black;
+    margin-bottom: 115px;
+}
